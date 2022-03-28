@@ -11,7 +11,6 @@
   inputs.src-nimzbar-master.ref   = "refs/heads/master";
   inputs.src-nimzbar-master.owner = "genotrance";
   inputs.src-nimzbar-master.repo  = "nimzbar";
-  inputs.src-nimzbar-master.dir   = "";
   inputs.src-nimzbar-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
